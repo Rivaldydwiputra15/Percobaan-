@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -6,8 +6,7 @@
     <title>Keur Naraon</title>
 </head>
 <body>
-    <h1>Keur Naraon, Kawan-Kawan?</h1>
+    <h1>Keur Naraon, Kawan-Kawan KAK ESA KAK NAUFAL KAK ABDID KAK IYAN KAK RIVANDY?</h1>
     <p>Semoga harinya menyenangkan! 😊</p>
 </body>
 </html>
-￼Enter
